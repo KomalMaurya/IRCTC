@@ -1,4 +1,4 @@
-package ticketBooking.entities;
+package IRCTC.entities;
 
 public class User{
 

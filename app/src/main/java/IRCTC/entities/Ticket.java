@@ -1,3 +1,5 @@
+package IRCTC.entities;
+
 import ticketBooking.entities;
 import java.util.*;
 
